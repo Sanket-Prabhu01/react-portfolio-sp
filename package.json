@@ -3,10 +3,10 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Sanket-Prabhu01.github.io/react-portfolio-sp",
+  "homepage": ".",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "vite build --base=/",
     "lint": "eslint .",
     "preview": "vite preview"
   },
