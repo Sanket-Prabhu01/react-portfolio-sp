@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": ".",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -11,7 +12,6 @@
   },
   "dependencies": {
     "framer-motion": "^11.5.4",
-    "homepage": ".",
     "my-project": "file:",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
